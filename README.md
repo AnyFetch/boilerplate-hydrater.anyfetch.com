@@ -1,6 +1,6 @@
 # Hydrater boilerplate
-> Visit http://cluestr.com for details about Cluestr.
+> Visit http://anyfetch.com for details about AnyFetch.
 
-Cluestr Hydrater boilerplate.
+AnyFetch Hydrater boilerplate.
 
 Support: `support@papiel.fr`.

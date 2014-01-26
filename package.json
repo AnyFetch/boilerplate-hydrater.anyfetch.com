@@ -1,7 +1,7 @@
 {
-  "name": "cluestr-hydrater-BOILERPLATE",
+  "name": "anyfetch-HYDRATER_NAME-hydrater",
   "version": "1.0.0",
-  "author": "Matthieu Bacconnier <matthieu.bacconnier@papiel.fr>",
+  "author": "You <you@example.com>",
   "contributors": [],
   "bin": {
     "server": "./bin/server"
@@ -14,16 +14,15 @@
   "main": "./lib/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Papiel/hydrater-BOILERPLATE"
+    "url": "https://github.com/YOU/HYDRATER_NAME.hydrater.example.com"
   },
   "keywords": [
-    "cluestr",
-    "hydrater",
-    "BOILERPLATE"
+    "anyfetch",
+    "hydrater"
   ],
   "dependencies": {
     "async": "0.2.x",
-    "cluestr-file-hydrater": "x.x.x"
+    "anyfetch-file-hydrater": "x.x.x"
   },
   "devDependencies": {
     "mocha": "1.15.x",
@@ -31,7 +30,7 @@
     "supertest": "0.8.x",
     "jshint": "2.3.x"
   },
-  "licence": "Copyright Papiel",
+  "licence": "MIT",
   "engines": {
     "node": ">=0.10"
   }
