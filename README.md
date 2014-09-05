@@ -3,4 +3,4 @@
 
 AnyFetch Hydrater boilerplate.
 
-Support: `support@papiel.fr`.
+Support: `support@anyfetch.com`.
