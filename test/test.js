@@ -2,14 +2,14 @@
 
 require('should');
 
-var hydrater = require('../lib/');
+// var hydrater = require('../lib/');
 
 
 describe('Test HYDRATER results', function() {
   it('returns the correct informations', function(done) {
-    var document = {
-      datas: {}
-    };
+    // var document = {
+    //   datas: {}
+    // };
     done();
   });
 });
